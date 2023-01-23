@@ -1,8 +1,18 @@
 <h1 align="center">Cypooos here !</h1>
 <h3 align="left">About me</h3>
 <p>
-  I'm a self-taught develloper among many things : Musician, Video-game designer, Mathematics student, and Conlang enthusiast !
+  I'm a self-taught develloper amongs many things: Musician, Video-game designer, Mathematics and computer science student, and a Conlang enthusiast !
   I speak French, English, and Tokipona.
+</p>
+
+
+<h3 align="left">Favorites repositories:</h3>
+<p>
+  <ul>
+  <li><code><a href="https://github.com/Cypooos/Recaml">Recaml</a></code>: a simple programming language made in python, based on non-typed lambda calculi.</li>
+  <li><code><a href="https://github.com/Cypooos/GenOS">GenOS</a></code>: an operating system based on PHIL'S tutorial, it has the goal of proposing a different way of storing data, inspired by set theory</li>
+  <li><code><a href="https://github.com/Cypooos/TwitterRulesGenerator">TwitterRulesGenerator</a></code>: an old AI (deep learning) that generate "rules" to the internet and published them on twitter.</li>
+  </ul>
 </p>
 
 
@@ -26,7 +36,6 @@
   <code><a href="https://www.adobe.com/fr/products/premiere.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg" alt="Premiere" width="40" height="40"/> </a></code>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cypooos&show_icons=true&locale=en&layout=compact" alt="cypooos" /></p>
 
 
 <h3 align="left">My socials:</h3>
@@ -36,11 +45,3 @@
 <code><a href="https://www.youtube.com/c/cypooos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cypooos" height="30" width="40" /></a></code>
 <code><a href="https://discord.gg/Cypooos#3301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Cypooos#3301" height="30" width="40" /></a></code>
 </p>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cypooos&show_icons=true&locale=en" alt="cypooos" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cypooos&" alt="cypooos" /></p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cypooos" alt="cypooos" /></a> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cypooos&label=Profile%20views&color=0e75b6&style=flat" alt="cypooos" /> </p>
