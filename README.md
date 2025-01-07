@@ -1,7 +1,7 @@
 <h1 align="center">Cypooos here !</h1>
 <h3 align="left">About me</h3>
 <p>
-  I'm a self-taught develloper amongs many things: Musician, Video-game designer, Mathematics and computer science student, and a Conlang enthusiast !
+  I'm a self-taught developer amongs many things: Musician, Video-game designer, Mathematics and computer science student, and a Conlang enthusiast !
   I speak French, English, and Tokipona.
 </p>
 
