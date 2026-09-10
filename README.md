@@ -1,47 +1,60 @@
-<h1 align="center">Cypooos here !</h1>
-<h3 align="left">About me</h3>
-<p>
-  I'm a self-taught developer amongs many things: Musician, Video-game designer, Mathematics and computer science student, and a Conlang enthusiast !
-  I speak French, English, and Tokipona.
-</p>
+# Hi, I'm Coda!
 
+I'm a computer science student and researcher at **ENS de Lyon**, working mainly in **theoretical computer science**.
 
-<h3 align="left">Favorites repositories:</h3>
-<p>
-  <ul>
-  <li><code><a href="https://github.com/Cypooos/Recaml">Recaml</a></code>: a simple programming language made in python, based on non-typed lambda calculi.</li>
-  <li><code><a href="https://github.com/Cypooos/GenOS">GenOS</a></code>: an operating system based on PHIL'S tutorial, it has the goal of proposing a different way of storing data, inspired by set theory</li>
-  <li><code><a href="https://github.com/Cypooos/TwitterRulesGenerator">TwitterRulesGenerator</a></code>: an old AI (deep learning) that generate "rules" to the internet and published them on twitter.</li>
-  </ul>
-</p>
+My interests include graph algorithms, logic, automata theory, lambda calculus, type systems and formal verification. I also enjoy building things close to the machine, especially in **Rust** and **C**.
 
+- Research & papers: [bourotte.com/papers](https://bourotte.com/papers)
+- Website: [bourotte.com](https://bourotte.com)
+- Teaching & exercises: [bourotte.com/exos](https://bourotte.com/exos)
 
-<h3 align="left">Programming Languages:</h3>
-<p align="left">
-  <code><a href="https://ocaml.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ocaml/ocaml-original.svg" alt="Ocaml" width="40" height="40"/></a></code>
-  <code><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a></code>
-  <code><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a></code>
-  <code><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a></code>
-  <code><a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/></a></code>
-</p>
-  
+## Selected projects
 
-<h3 align="left">Tools and others:</h3>
-<p>
-  <code><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a></code>
-    <code><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a></code>
-  <code><a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a></code>
-  <code><a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a></code>
-  <code><a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a></code>
-  <code><a href="https://www.adobe.com/fr/products/premiere.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-original.svg" alt="Premiere" width="40" height="40"/> </a></code>
-</p>
+| Project | Description | Tech |
+| --- | --- | --- |
+| [**Crepe**](https://gitlab.aliens-lyon.fr/cypooos/crepe)](https://github.com/Cypooos/crepe) | A C front-end interpretor written from scratch, including pointor manipulation and a fake memory layout. | Rust |
+| [**GenOS**](https://github.com/Cypooos/GenOS) | A hobby operating system, including low-level input, interfaces, sound and filesystem experiments. | Rust, x86_64 |
+| **PAWER** | A browser-based proof assistant for dependent type theory / the Calculus of Inductive Constructions. | Rust |
+| [**La Totale**](https://bourotte.com/exos) | A large collection of theoretical computer-science exercises for French CPGE and beyond. | Typst, Web |
+| [**Informatique D**](https://bourotte.com/info-d) | An annual six-hour advanced theoretical CS exam / contest that I design and organise. | Theoretical CS |
 
+## Research
 
+### A Congestion Parameter for Depth-First Graph Traversals
 
-<h3 align="left">My socials:</h3>
-<p align="left">
-<code><a href="https://twitter.com/cypooos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cypooos" height="30" width="40" /></a></code>
-<code><a href="https://instagram.com/cypooos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cypooos" height="30" width="40" /></a></code>
-<code><a href="https://www.youtube.com/c/cypooos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cypooos" height="30" width="40" /></a></code>
-<code><a href="https://discord.gg/Cypooos#3301" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Cypooos#3301" height="30" width="40" /></a></code>
-</p>
+**MFCS 2026** — Codaline Bourotte, Gwendal Ducloz, Pekka Orponen, Shinnosuke Seki.
+
+We introduced and studied the **KLX number**, a graph parameter measuring congestion in depth-first traversals. Our work gives structural characterisations and linear-time recognition algorithms for small values, and relates the parameter to treewidth and MSO₂.
+
+[Paper](https://doi.org/10.4230/LIPIcs.MFCS.2026.7)
+· [Talk](https://youtu.be/bwJNsbJjxqM)
+· [Research page](https://bourotte.com/papers)
+
+### Reduction graphs of I-terms
+
+During my M2 research internship at **IRIF**, supervised by **Giulio Manzonetto**, I studied reduction graphs of λ-terms generated only from the identity combinator and application.
+
+The project connects λ-calculus reduction with combinatorics on **ordered rooted trees** and **Dyck words**.
+
+[Internship report](https://bourotte.com/pdfs/stages/M2.pdf)
+
+## What I use
+
+**Languages**
+
+`Rust` · `C` · `Python` · `OCaml` · `JavaScript`
+
+**Things I like working on**
+
+`Algorithms` · `Graph Theory` · `Compilers` · `Operating Systems`
+· `Formal Methods` · `Type Theory` · `Automata`
+
+**Tools**
+
+`Linux / NixOS` · `Git` · `Typst`
+
+## Other things
+
+I also make video games, music and digital art. I work with **Godot** and **Unity**, and maintain my personal website at [bourotte.com](https://bourotte.com).
+
+I also teach theoretical computer science, write exercises, and have taught ompilation and mathematics at EPITA.
