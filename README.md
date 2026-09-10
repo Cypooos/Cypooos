@@ -12,10 +12,10 @@ My interests include graph algorithms, logic, automata theory, lambda calculus, 
 
 | Project | Description | Tech |
 | --- | --- | --- |
-| [**Crepe**](https://gitlab.aliens-lyon.fr/cypooos/crepe)](https://github.com/Cypooos/crepe) | A C front-end interpretor written from scratch, including pointor manipulation and a fake memory layout. | Rust |
+| [**Crepe**](https://github.com/Cypooos/crepe) | A C front-end interpretor written from scratch, including pointor manipulation and a fake memory layout. | Rust |
 | [**GenOS**](https://github.com/Cypooos/GenOS) | A hobby operating system, including low-level input, interfaces, sound and filesystem experiments. | Rust, x86_64 |
-| **PAWER** | A browser-based proof assistant for dependent type theory / the Calculus of Inductive Constructions. | Rust |
-| [**La Totale**](https://bourotte.com/exos) | A large collection of theoretical computer-science exercises for French CPGE and beyond. | Typst, Web |
+| [**PAWER**](https://github.com/Cypooos/PAWER) | A browser-based proof assistant for dependent type theory / the Calculus of Inductive Constructions. | Rust |
+| [**la Totale**](https://github.com/Cypooos/la-totale) | A large collection of theoretical computer-science exercises for French CPGE and beyond. | Typst, Web |
 | [**Informatique D**](https://bourotte.com/info-d) | An annual six-hour advanced theoretical CS exam / contest that I design and organise. | Theoretical CS |
 
 ## Research
